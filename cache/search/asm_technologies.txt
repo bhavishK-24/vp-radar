@@ -1,0 +1,1 @@
+[{"id": 300, "name": "ASM Technologies Ltd", "url": "/company/526433/consolidated/"}, {"id": 1275222, "name": "ASM Technologies Ltd Partly Paidup", "url": "/company/id/1275222/"}, {"id": null, "name": "Search everywhere: ASM Technologies", "url": "/full-text-search/?q=ASM+Technologies"}]

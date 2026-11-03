@@ -1,0 +1,1 @@
+[{"id": 1274355, "name": "Sirca Paints India Ltd", "url": "/company/SIRCA/"}, {"id": null, "name": "Search everywhere: Sirca Paints India Limited", "url": "/full-text-search/?q=Sirca+Paints+India+Limited"}]

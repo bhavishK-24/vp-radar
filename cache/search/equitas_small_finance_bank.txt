@@ -1,0 +1,1 @@
+[{"id": 1274807, "name": "Equitas Small Finance Bank Ltd", "url": "/company/EQUITASBNK/"}, {"id": null, "name": "Search everywhere: Equitas Small Finance Bank", "url": "/full-text-search/?q=Equitas+Small+Finance+Bank"}]

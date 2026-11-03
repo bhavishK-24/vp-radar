@@ -1,0 +1,1 @@
+[{"id": 2872, "name": "Sandur Manganese & Iron Ores Ltd", "url": "/company/SANDUMA/consolidated/"}, {"id": null, "name": "Search everywhere: Sandur Manganese", "url": "/full-text-search/?q=Sandur+Manganese"}]

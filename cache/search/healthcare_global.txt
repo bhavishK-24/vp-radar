@@ -1,0 +1,1 @@
+[{"id": 1273301, "name": "Healthcare Global Enterprises Ltd", "url": "/company/HCG/consolidated/"}, {"id": null, "name": "Search everywhere: HealthCare Global", "url": "/full-text-search/?q=HealthCare+Global"}]

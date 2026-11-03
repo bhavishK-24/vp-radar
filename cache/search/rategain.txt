@@ -1,0 +1,1 @@
+[{"id": 1275119, "name": "Rategain Travel Technologies Ltd", "url": "/company/RATEGAIN/consolidated/"}, {"id": null, "name": "Search everywhere: Rategain", "url": "/full-text-search/?q=Rategain"}]

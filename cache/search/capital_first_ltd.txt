@@ -1,0 +1,1 @@
+[{"id": 1058, "name": "Capital First Ltd(Merged)", "url": "/company/CAPF/consolidated/"}, {"id": null, "name": "Search everywhere: Capital First Ltd", "url": "/full-text-search/?q=Capital+First+Ltd"}]

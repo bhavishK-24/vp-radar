@@ -1,0 +1,1 @@
+[{"id": 1378, "name": "Kingfa Science & Technology (India) Ltd", "url": "/company/KINGFA/"}, {"id": null, "name": "Search everywhere: Kingfa Science & Technology", "url": "/full-text-search/?q=Kingfa+Science+%26+Technology"}]

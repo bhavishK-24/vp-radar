@@ -1,0 +1,53 @@
+name: Refresh VP Radar
+
+on:
+  schedule:
+    - cron: '30 0,6,12,18 * * *'   # every 6 hours (06:00, 12:00, 18:00, 00:00 IST)
+  workflow_dispatch:                # "Run workflow" button for an instant refresh
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: vp-radar
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: windows-latest          # the scraper targets Windows PowerShell 5.1
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+
+      # keep forum/price caches between runs so each refresh only fetches what changed
+      - uses: actions/cache@v4
+        with:
+          path: |
+            cache/list
+            cache/topic
+            cache/posts
+            cache/yahoo
+          key: vp-cache-${{ github.run_id }}
+          restore-keys: vp-cache-
+
+      - name: Scrape ValuePickr
+        shell: powershell
+        run: .\scrape.ps1 -Latest 60 -TrackTopics 250
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+  deploy:
+    needs: scrape
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

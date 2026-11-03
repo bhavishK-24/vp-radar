@@ -1,0 +1,1 @@
+[{"id": 1285492, "name": "Influx Healthtech Ltd", "url": "/company/INFLUX/"}, {"id": null, "name": "Search everywhere: Influx HealthTech", "url": "/full-text-search/?q=Influx+HealthTech"}]

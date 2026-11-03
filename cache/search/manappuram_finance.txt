@@ -1,0 +1,1 @@
+[{"id": 1989, "name": "Manappuram Finance Ltd", "url": "/company/MANAPPURAM/consolidated/"}, {"id": null, "name": "Search everywhere: Manappuram Finance", "url": "/full-text-search/?q=Manappuram+Finance"}]

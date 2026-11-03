@@ -1,0 +1,1 @@
+[{"id": 1285135, "name": "United Heat Transfer Ltd", "url": "/company/UHTL/"}, {"id": null, "name": "Search everywhere: United Heat Transfer Limited", "url": "/full-text-search/?q=United+Heat+Transfer+Limited"}]

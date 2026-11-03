@@ -1,0 +1,1 @@
+[{"id": 1274700, "name": "Indian Railway Catering & Tourism Corporation Ltd", "url": "/company/IRCTC/"}, {"id": null, "name": "Search everywhere: IRCTC", "url": "/full-text-search/?q=IRCTC"}]

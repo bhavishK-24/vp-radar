@@ -1,0 +1,1 @@
+[{"id": 1274371, "name": "Solara Active Pharma Sciences Ltd", "url": "/company/SOLARA/consolidated/"}, {"id": 1284837, "name": "Solara Active Pharma Sciences Ltd Partly Paidup", "url": "/company/SOLARAPP1/"}, {"id": null, "name": "Search everywhere: Solara Active Pharma Sciences", "url": "/full-text-search/?q=Solara+Active+Pharma+Sciences"}]

@@ -1,0 +1,1 @@
+[{"id": 1284640, "name": "Qualitek Labs Ltd", "url": "/company/544091/consolidated/"}, {"id": null, "name": "Search everywhere: Qualitek Lab Limited", "url": "/full-text-search/?q=Qualitek+Lab+Limited"}]

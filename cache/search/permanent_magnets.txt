@@ -1,0 +1,1 @@
+[{"id": 2457, "name": "Permanent Magnets Ltd", "url": "/company/PERMAGN/consolidated/"}, {"id": null, "name": "Search everywhere: Permanent Magnets", "url": "/full-text-search/?q=Permanent+Magnets"}]

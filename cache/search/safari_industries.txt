@@ -1,0 +1,1 @@
+[{"id": 2832, "name": "Safari Industries (India) Ltd", "url": "/company/SAFARI/consolidated/"}, {"id": null, "name": "Search everywhere: Safari Industries", "url": "/full-text-search/?q=Safari+Industries"}]

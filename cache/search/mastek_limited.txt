@@ -1,0 +1,1 @@
+[{"id": 2026, "name": "Mastek Ltd", "url": "/company/MASTEK/consolidated/"}, {"id": 1270258, "name": "LIC Nomura MF G-Sec Long Term ETF", "url": "/company/LICNETFGSC/"}, {"id": null, "name": "Search everywhere: Mastek Limited", "url": "/full-text-search/?q=Mastek+Limited"}]

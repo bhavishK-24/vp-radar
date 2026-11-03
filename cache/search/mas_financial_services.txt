@@ -1,0 +1,1 @@
+[{"id": 1274181, "name": "MAS Financial Services Ltd", "url": "/company/MASFIN/consolidated/"}, {"id": null, "name": "Search everywhere: MAS Financial Services", "url": "/full-text-search/?q=MAS+Financial+Services"}]

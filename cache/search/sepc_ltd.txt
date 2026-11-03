@@ -1,0 +1,1 @@
+[{"id": 3045, "name": "SEPC Ltd", "url": "/company/SEPC/consolidated/"}, {"id": 1285548, "name": "SEPC Ltd Partly Paidup", "url": "/company/SEPCPP/"}, {"id": null, "name": "Search everywhere: SEPC LTD", "url": "/full-text-search/?q=SEPC+LTD"}]

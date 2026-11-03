@@ -1,0 +1,1 @@
+[{"id": 615, "name": "Cerebra Integrated Technologies Ltd", "url": "/company/CEREBRAINT/consolidated/"}, {"id": null, "name": "Search everywhere: Cerebra Integrated Technologies", "url": "/full-text-search/?q=Cerebra+Integrated+Technologies"}]

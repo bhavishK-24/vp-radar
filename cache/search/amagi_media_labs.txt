@@ -1,0 +1,1 @@
+[{"id": 1285861, "name": "Amagi Media Labs Ltd", "url": "/company/AMAGI/consolidated/"}, {"id": null, "name": "Search everywhere: Amagi Media Labs", "url": "/full-text-search/?q=Amagi+Media+Labs"}]

@@ -1,0 +1,1 @@
+[{"id": 2475, "name": "Piccadily Agro Industries Ltd", "url": "/company/PICCADIL/consolidated/"}, {"id": null, "name": "Search everywhere: Piccadily Agro Industries Ltd", "url": "/full-text-search/?q=Piccadily+Agro+Industries+Ltd"}]

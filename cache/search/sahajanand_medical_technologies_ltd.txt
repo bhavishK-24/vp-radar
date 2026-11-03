@@ -1,0 +1,1 @@
+[{"id": 1286258, "name": "Sahajanand Medical Technologies Ltd", "url": "/company/SMT/consolidated/"}, {"id": null, "name": "Search everywhere: Sahajanand Medical Technologies Ltd", "url": "/full-text-search/?q=Sahajanand+Medical+Technologies+Ltd"}]

@@ -1,0 +1,1 @@
+[{"id": 1825, "name": "Kovai Medical Center & Hospital Ltd", "url": "/company/KOVAI/"}, {"id": null, "name": "Search everywhere: kovai medical", "url": "/full-text-search/?q=kovai+medical"}]

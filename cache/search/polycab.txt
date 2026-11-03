@@ -1,0 +1,1 @@
+[{"id": 1274653, "name": "Polycab India Ltd", "url": "/company/POLYCAB/consolidated/"}, {"id": null, "name": "Search everywhere: polycab", "url": "/full-text-search/?q=polycab"}]

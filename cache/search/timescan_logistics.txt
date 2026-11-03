@@ -1,0 +1,1 @@
+[{"id": 1275149, "name": "Timescan Logistics (India) Ltd", "url": "/company/TIMESCAN/"}, {"id": null, "name": "Search everywhere: timescan logistics", "url": "/full-text-search/?q=timescan+logistics"}]

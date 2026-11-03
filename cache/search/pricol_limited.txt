@@ -1,0 +1,1 @@
+[{"id": 1273637, "name": "Pricol Ltd", "url": "/company/PRICOLLTD/consolidated/"}, {"id": 2560, "name": "Pricol Ltd(Merged)", "url": "/company/526109/"}, {"id": null, "name": "Search everywhere: Pricol limited", "url": "/full-text-search/?q=Pricol+limited"}]

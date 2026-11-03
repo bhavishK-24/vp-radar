@@ -1,0 +1,1 @@
+[{"id": 1274818, "name": "Restaurant Brands Asia Ltd", "url": "/company/RBA/consolidated/"}, {"id": null, "name": "Search everywhere: burger", "url": "/full-text-search/?q=burger"}]

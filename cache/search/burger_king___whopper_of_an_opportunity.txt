@@ -1,0 +1,1 @@
+[{"id": null, "name": "Search everywhere: Burger King ~ Whopper of an Opportunity", "url": "/full-text-search/?q=Burger+King+~+Whopper+of+an+Opportunity"}]

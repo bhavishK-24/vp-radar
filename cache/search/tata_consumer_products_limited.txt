@@ -1,0 +1,1 @@
+[{"id": 3367, "name": "Tata Consumer Products Ltd", "url": "/company/TATACONSUM/consolidated/"}, {"id": null, "name": "Search everywhere: Tata Consumer Products Limited", "url": "/full-text-search/?q=Tata+Consumer+Products+Limited"}]

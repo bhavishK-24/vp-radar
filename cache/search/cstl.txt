@@ -1,0 +1,1 @@
+[{"id": null, "name": "Search everywhere: CSTL", "url": "/full-text-search/?q=CSTL"}]

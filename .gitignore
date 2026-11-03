@@ -1,0 +1,5 @@
+# generated each run
+site/data.js
+# caches are kept by GitHub Actions cache, except ticker lookups (small, permanent)
+cache/*
+!cache/search/

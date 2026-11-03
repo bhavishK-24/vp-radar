@@ -1,0 +1,1 @@
+[{"id": 1274917, "name": "Meghmani Organics Ltd", "url": "/company/MOL/consolidated/"}, {"id": 2056, "name": "Meghmani Organics Ltd(Merged)", "url": "/company/MEGH/consolidated/"}, {"id": null, "name": "Search everywhere: Meghmani Organics Ltd", "url": "/full-text-search/?q=Meghmani+Organics+Ltd"}]

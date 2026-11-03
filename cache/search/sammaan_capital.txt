@@ -1,0 +1,1 @@
+[{"id": 496506, "name": "Sammaan Capital Ltd", "url": "/company/SAMMAANCAP/consolidated/"}, {"id": 1284698, "name": "Sammaan Capital Ltd Partly Paidup", "url": "/company/IBULPP/"}, {"id": null, "name": "Search everywhere: Sammaan Capital", "url": "/full-text-search/?q=Sammaan+Capital"}]

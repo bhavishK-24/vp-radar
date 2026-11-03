@@ -1,0 +1,1 @@
+[{"id": 1818, "name": "Kotak Mahindra Bank Ltd", "url": "/company/KOTAKBANK/consolidated/"}, {"id": null, "name": "Search everywhere: Kotak Mahindra Bank", "url": "/full-text-search/?q=Kotak+Mahindra+Bank"}]

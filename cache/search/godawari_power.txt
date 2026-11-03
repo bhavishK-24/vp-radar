@@ -1,0 +1,1 @@
+[{"id": 1162, "name": "Godawari Power & Ispat Ltd", "url": "/company/GPIL/consolidated/"}, {"id": null, "name": "Search everywhere: Godawari Power", "url": "/full-text-search/?q=Godawari+Power"}]

@@ -1,0 +1,1 @@
+[{"id": 1273121, "name": "Interglobe Aviation Ltd", "url": "/company/INDIGO/"}, {"id": null, "name": "Search everywhere: InterGlobe Aviation", "url": "/full-text-search/?q=InterGlobe+Aviation"}]

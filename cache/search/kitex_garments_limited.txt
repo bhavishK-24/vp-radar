@@ -1,0 +1,1 @@
+[{"id": 1795, "name": "Kitex Garments Ltd", "url": "/company/KITEX/consolidated/"}, {"id": null, "name": "Search everywhere: Kitex Garments Limited", "url": "/full-text-search/?q=Kitex+Garments+Limited"}]

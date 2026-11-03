@@ -1,0 +1,1 @@
+[{"id": 1274614, "name": "KPI Green Energy Ltd", "url": "/company/KPIGREEN/consolidated/"}, {"id": null, "name": "Search everywhere: KPI Green Energy Ltd", "url": "/full-text-search/?q=KPI+Green+Energy+Ltd"}]

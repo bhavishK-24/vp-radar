@@ -1,0 +1,1 @@
+[{"id": 2490, "name": "Pix Transmission Ltd", "url": "/company/PIXTRANS/consolidated/"}, {"id": null, "name": "Search everywhere: Pix Transmission", "url": "/full-text-search/?q=Pix+Transmission"}]

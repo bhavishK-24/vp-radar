@@ -1,0 +1,1 @@
+[{"id": 1285468, "name": "Leela Palaces Hotels & Resorts Ltd", "url": "/company/THELEELA/consolidated/"}, {"id": null, "name": "Search everywhere: leela palaces", "url": "/full-text-search/?q=leela+palaces"}]

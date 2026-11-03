@@ -1,0 +1,1 @@
+[{"id": 1626, "name": "Jindal Stainless Ltd", "url": "/company/JSL/consolidated/"}, {"id": 1273220, "name": "Jindal Stainless (Hisar) Ltd(Merged)", "url": "/company/JSLHISAR/consolidated/"}, {"id": null, "name": "Search everywhere: Jindal Stainless", "url": "/full-text-search/?q=Jindal+Stainless"}]

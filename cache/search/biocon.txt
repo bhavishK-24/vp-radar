@@ -1,0 +1,1 @@
+[{"id": 487, "name": "Biocon Ltd", "url": "/company/BIOCON/consolidated/"}, {"id": 1272384, "name": "Natural Biocon (India) Ltd", "url": "/company/543207/"}, {"id": null, "name": "Search everywhere: Biocon", "url": "/full-text-search/?q=Biocon"}]

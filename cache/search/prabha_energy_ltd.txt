@@ -1,0 +1,1 @@
+[{"id": 1285423, "name": "Prabha Energy Ltd", "url": "/company/PRABHA/consolidated/"}, {"id": 1285949, "name": "Prabha Energy Ltd Partly Paidup", "url": "/company/PRABHAPP1/"}, {"id": null, "name": "Search everywhere: Prabha Energy Ltd", "url": "/full-text-search/?q=Prabha+Energy+Ltd"}]

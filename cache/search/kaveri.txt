@@ -1,0 +1,1 @@
+[{"id": 1730, "name": "Kaveri Seed Company Ltd", "url": "/company/KSCL/consolidated/"}, {"id": 1271149, "name": "Kaveri Engineering Industries Ltd (Wound-up)", "url": "/company/522062/"}, {"id": null, "name": "Search everywhere: kaveri", "url": "/full-text-search/?q=kaveri"}]

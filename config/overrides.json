@@ -1,0 +1,4 @@
+{
+  "_help": "Fix thread -> company matching. Key = ValuePickr topic id (the number at the end of the thread URL). Value = Screener symbol (the part after /company/ in a screener.in URL), or null to mark the thread as 'not a listed company'.",
+  "_example_220753": "GRSE"
+}

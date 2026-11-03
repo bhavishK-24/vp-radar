@@ -1,0 +1,1 @@
+[{"id": 1752, "name": "Kernex Microsystems (India) Ltd", "url": "/company/KERNEX/consolidated/"}, {"id": null, "name": "Search everywhere: Kernex", "url": "/full-text-search/?q=Kernex"}]

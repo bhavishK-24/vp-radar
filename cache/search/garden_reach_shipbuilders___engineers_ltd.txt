@@ -1,0 +1,1 @@
+[{"id": 1274573, "name": "Garden Reach Shipbuilders & Engineers Ltd", "url": "/company/GRSE/"}, {"id": null, "name": "Search everywhere: Garden Reach Shipbuilders & Engineers Ltd", "url": "/full-text-search/?q=Garden+Reach+Shipbuilders+%26+Engineers+Ltd"}]

@@ -1,0 +1,1 @@
+[{"id": 1285570, "name": "Aditya Infotech Ltd", "url": "/company/CPPLUS/consolidated/"}, {"id": null, "name": "Search everywhere: Aditya Infotech Ltd", "url": "/full-text-search/?q=Aditya+Infotech+Ltd"}]

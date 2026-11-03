@@ -1,0 +1,1 @@
+[{"id": 1275193, "name": "Krishival Foods Ltd", "url": "/company/KRISHIVAL/consolidated/"}, {"id": 1285867, "name": "Krishival Foods Ltd Partly Paidup", "url": "/company/KRISHPP/"}, {"id": null, "name": "Search everywhere: Krishival Foods Ltd", "url": "/full-text-search/?q=Krishival+Foods+Ltd"}]

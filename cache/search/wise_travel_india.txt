@@ -1,0 +1,1 @@
+[{"id": 1284666, "name": "Wise Travel India Ltd", "url": "/company/WTICAB/consolidated/"}, {"id": null, "name": "Search everywhere: Wise Travel India", "url": "/full-text-search/?q=Wise+Travel+India"}]

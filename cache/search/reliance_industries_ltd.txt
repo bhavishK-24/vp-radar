@@ -1,0 +1,1 @@
+[{"id": 2726, "name": "Reliance Industries Ltd", "url": "/company/RELIANCE/consolidated/"}, {"id": 1274758, "name": "Reliance Industries Ltd Partly Paidup", "url": "/company/RELIANCEP1/"}, {"id": null, "name": "Search everywhere: Reliance Industries Ltd", "url": "/full-text-search/?q=Reliance+Industries+Ltd"}]

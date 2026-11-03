@@ -1,0 +1,1 @@
+[{"id": 2992, "name": "Shivalik Bimetal Controls Ltd", "url": "/company/SBCL/consolidated/"}, {"id": null, "name": "Search everywhere: Shivalik Bimetal Controls Ltd", "url": "/full-text-search/?q=Shivalik+Bimetal+Controls+Ltd"}]

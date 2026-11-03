@@ -1,0 +1,1 @@
+[{"id": 1272993, "name": "Satin Creditcare Network Ltd", "url": "/company/SATIN/consolidated/"}, {"id": 1274782, "name": "Satin Creditcare Network Ltd Partly Paidup", "url": "/company/SATINPP1/"}, {"id": null, "name": "Search everywhere: Satin Creditcare Network Ltd", "url": "/full-text-search/?q=Satin+Creditcare+Network+Ltd"}]

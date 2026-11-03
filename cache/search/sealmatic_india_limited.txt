@@ -1,0 +1,1 @@
+[{"id": 1284304, "name": "Sealmatic India Ltd", "url": "/company/543782/"}, {"id": null, "name": "Search everywhere: Sealmatic India Limited", "url": "/full-text-search/?q=Sealmatic+India+Limited"}]

@@ -1,0 +1,1 @@
+[{"id": 1273341, "name": "Thyrocare Technologies Ltd", "url": "/company/THYROCARE/consolidated/"}, {"id": null, "name": "Search everywhere: Thyrocare", "url": "/full-text-search/?q=Thyrocare"}]

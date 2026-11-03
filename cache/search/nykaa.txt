@@ -1,0 +1,1 @@
+[{"id": 1274992, "name": "FSN E-Commerce Ventures Ltd", "url": "/company/NYKAA/consolidated/"}, {"id": null, "name": "Search everywhere: Nykaa", "url": "/full-text-search/?q=Nykaa"}]

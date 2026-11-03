@@ -1,0 +1,1 @@
+[{"id": 1284680, "name": "Thaai Casting Ltd", "url": "/company/TCL/consolidated/"}, {"id": null, "name": "Search everywhere: Thaai casting ltd", "url": "/full-text-search/?q=Thaai+casting+ltd"}]

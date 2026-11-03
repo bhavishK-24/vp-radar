@@ -1,0 +1,1 @@
+[{"id": 619, "name": "Chamanlal Setia Exports Ltd", "url": "/company/CLSEL/"}, {"id": 1275398, "name": "Chaman Metallics Ltd", "url": "/company/CMNL/"}, {"id": null, "name": "Search everywhere: chaman", "url": "/full-text-search/?q=chaman"}]

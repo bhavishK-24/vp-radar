@@ -1,0 +1,1 @@
+[{"id": 1274645, "name": "Embassy Office Parks REIT", "url": "/company/EMBASSY/consolidated/"}, {"id": 1434, "name": "Embassy Developments Ltd", "url": "/company/EMBDL/consolidated/"}, {"id": null, "name": "Search everywhere: embassy", "url": "/full-text-search/?q=embassy"}]

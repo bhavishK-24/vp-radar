@@ -1,0 +1,1 @@
+[{"id": 1274230, "name": "National Stock Exchange Of India Ltd", "url": "/company/544937/consolidated/"}, {"id": null, "name": "Search everywhere: National Stock Exchange Of India Ltd", "url": "/full-text-search/?q=National+Stock+Exchange+Of+India+Ltd"}]

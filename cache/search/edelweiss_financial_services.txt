@@ -1,0 +1,1 @@
+[{"id": 884, "name": "Edelweiss Financial Services Ltd", "url": "/company/EDELWEISS/consolidated/"}, {"id": null, "name": "Search everywhere: Edelweiss Financial Services", "url": "/full-text-search/?q=Edelweiss+Financial+Services"}]

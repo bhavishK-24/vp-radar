@@ -1,0 +1,1 @@
+[{"id": 1257, "name": "Gujarat Themis Biosyn Ltd", "url": "/company/GUJTHEM/"}, {"id": null, "name": "Search everywhere: Gujarat Themis Biosyn Ltd", "url": "/full-text-search/?q=Gujarat+Themis+Biosyn+Ltd"}]

@@ -1,0 +1,1 @@
+[{"id": 1274686, "name": "Sterling & Wilson Renewable Energy Ltd", "url": "/company/SWSOLAR/consolidated/"}, {"id": null, "name": "Search everywhere: SW Solar", "url": "/full-text-search/?q=SW+Solar"}]

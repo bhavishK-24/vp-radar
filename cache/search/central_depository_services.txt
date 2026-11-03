@@ -1,0 +1,1 @@
+[{"id": 1274088, "name": "Central Depository Services (India) Ltd", "url": "/company/CDSL/consolidated/"}, {"id": null, "name": "Search everywhere: Central Depository Services", "url": "/full-text-search/?q=Central+Depository+Services"}]

@@ -1,0 +1,1 @@
+[{"id": 1320, "name": "Himadri Speciality Chemical Ltd", "url": "/company/HSCL/consolidated/"}, {"id": null, "name": "Search everywhere: Himadri Speciality Chemical Ltd", "url": "/full-text-search/?q=Himadri+Speciality+Chemical+Ltd"}]

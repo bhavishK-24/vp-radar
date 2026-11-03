@@ -1,0 +1,1 @@
+[{"id": 1270733, "name": "Vintage Coffee & Beverages Ltd", "url": "/company/VINCOFE/consolidated/"}, {"id": null, "name": "Search everywhere: Vintage Coffee", "url": "/full-text-search/?q=Vintage+Coffee"}]
